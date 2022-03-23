@@ -7,7 +7,7 @@ CONTENT
 [1. Writing Type Recognition Project](https://github.com/Dodger22/Deep-Learning#1-writing-type-recognition-project)
 
 - [1.1. Object](https://github.com/Dodger22/Deep-Learning#11-object)
-- [1.2. Summary](https://github.com/Dodger22/Deep-Learning/new/main?readme=1#12-summary)
+- [1.2. Summary](https://github.com/Dodger22/Deep-Learning#12-summary)
 # What is Deep Learning ?
 
 Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.
