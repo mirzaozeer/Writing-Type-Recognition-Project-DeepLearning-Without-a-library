@@ -2,7 +2,7 @@
 
 CONTENT
 
-[0. Deep Learning ?](https://github.com/Dodger22/Deep-Learning/new/main?readme=1#what-is-deep-learning-)
+[0. Deep Learning ?](https://github.com/Dodger22/Deep-Learning#what-is-deep-learning-)
 
 [1. Writing Type Recognition Project](https://github.com/Dodger22/Deep-Learning/new/main?readme=1#1-writing-type-recognition-project)
 
