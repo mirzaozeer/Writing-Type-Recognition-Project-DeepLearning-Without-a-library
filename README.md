@@ -6,7 +6,7 @@ CONTENT
 
 [1. Writing Type Recognition Project](https://github.com/Dodger22/Deep-Learning#1-writing-type-recognition-project)
 
-- [1.1. Object](https://github.com/Dodger22/Deep-Learning/new/main?readme=1#11-object)
+- [1.1. Object](https://github.com/Dodger22/Deep-Learning#11-object)
 - [1.2. Summary](https://github.com/Dodger22/Deep-Learning/new/main?readme=1#12-summary)
 # What is Deep Learning ?
 
