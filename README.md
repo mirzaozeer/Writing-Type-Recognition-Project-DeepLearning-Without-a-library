@@ -1,4 +1,5 @@
-![109996-machine-learning-wallpaper](https://user-images.githubusercontent.com/88277713/159684094-4ba9411a-dcb8-4ebc-8170-a06251659bcc.jpg)
+
+![960x0](https://user-images.githubusercontent.com/88277713/163652194-b301ae71-825c-4290-9dd6-4d5e3fbd669b.jpg)
 
 CONTENT
 
