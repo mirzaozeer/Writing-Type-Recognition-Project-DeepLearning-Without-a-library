@@ -2,7 +2,7 @@
 
 CONTENT
 
-[0. What is Computer Vision](https://github.com/Dodger22/Deep-Learning#what-is-deep-learning-)
+[0. What is Computer Vision ?](https://github.com/Dodger22/Computer-Vision-Processing#what-is-computer-vision-)
 
 [1. Writing Type Recognition Project](https://github.com/Dodger22/Deep-Learning#1-writing-type-recognition-project)
 
