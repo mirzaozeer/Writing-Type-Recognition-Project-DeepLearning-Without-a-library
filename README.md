@@ -5,7 +5,7 @@ CONTENT
 
 [0. What is Computer Vision ?](https://github.com/Dodger22/Computer-Vision-Processing#what-is-computer-vision-)
 
-[1. Writing Type Recognition Project](https://github.com/Dodger22/Deep-Learning#1-writing-type-recognition-project)
+[1. Writing Type Recognition Project-  Without a library](https://github.com/Dodger22/Deep-Learning#1-writing-type-recognition-project)
 
 - [1.1. Object](https://github.com/Dodger22/Deep-Learning#11-object)
 - [1.2. Summary](https://github.com/Dodger22/Deep-Learning#12-summary)
