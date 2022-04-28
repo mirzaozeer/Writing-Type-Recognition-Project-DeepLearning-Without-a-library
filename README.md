@@ -1,4 +1,4 @@
-# 1. Writing Type Recognition Project-  Without a library
+#  Writing Type Recognition Project-  Without a library
 [Project Code](https://github.com/Dodger22/Deep-Learning/blob/main/Writing_Type_Recognition.ipynb)
 
 <img width="580" alt="sasasasasa" src="https://user-images.githubusercontent.com/88277713/159684619-783e03f9-0025-4eb9-9c2a-e546fde1cacf.PNG">
