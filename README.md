@@ -12,6 +12,8 @@ My aim in this study is to create a libraryless neural network that predicts han
 
 The printout data in the model is the data from the OCR model. Handwriting data was taken from different sources. Model,  well predicts all outputs from the OCR model, but has difficulties in estimating a self-cropped picture. There may be a decrease in accuracy due to overfitting or related to the image quality of the pictures I tried.
 
+- There are various variance and bias problems due to the fact that various optimization techniques are not used in the model and the model is made purely for the purpose of understanding the infrastructure of deep learning.
+
 - The input is a (256 ,64, 3) image which is flattened to a vector of size (49152,1)
 
 - Train Data : 12000   - Accuracy : 0.983083
